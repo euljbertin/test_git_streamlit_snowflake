@@ -16,6 +16,7 @@ st.write(
 session = get_active_session()
 
 test= 5 
+test_2 = 10 
 
 # Use an interactive slider to get user input
 hifives_val = st.slider(
