@@ -15,6 +15,8 @@ st.write(
 # Get the current credentials
 session = get_active_session()
 
+test= 5 
+
 # Use an interactive slider to get user input
 hifives_val = st.slider(
   "Number of high-fives in Q3",
